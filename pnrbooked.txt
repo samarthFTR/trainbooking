@@ -1,0 +1,9 @@
+Train Number: 12345 - Seat Number: Seat 16 - PNR: 623507
+Train Number: 12345 - Seat Number: Seat 14 - PNR: 281512
+Train Number: 12323 - Seat Number: Seat 12 - PNR: 529745
+Train Number: 12323 - Seat Number: Seat 10 - PNR: 550581
+Train Number: 12376 - Seat Number: Seat 6 - PNR: 702114
+Train Number: 12390 - Seat Number: Seat 9 - PNR: 018317
+Train Number: 12347 - Seat Number: Seat 20 - PNR: 354157
+Train Number: 12347 - Seat Number: Seat 14 - PNR: 614815
+Train Number: 12354 - Seat Number: Seat 10 - PNR: 148916
